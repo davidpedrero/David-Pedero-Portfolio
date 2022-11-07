@@ -9,7 +9,7 @@ import { projects } from '../../constants/constants';
 const Projects = () => (
 <Section nopadding id="projects">
   <SectionDivider/>
-  <SectionTitle main>Projects 123</SectionTitle>
+  <SectionTitle main>Projects 12345</SectionTitle>
   <GridContainer>
     {projects.map(({id, image, title, description, tags, source, visit}) => (
       <BlogCard key={id}>
