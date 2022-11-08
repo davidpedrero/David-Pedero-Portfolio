@@ -4,8 +4,8 @@ export const projects = [
     description: "Face Recognition Brain is a web app that detects the human face present in the image whose URL you submitted",
       image: '/images/1.png',
       tags: ['PostgresSQL', 'Express', 'React', 'Node.js'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://face-recognition-brain-2.herokuapp.com/',
+    visit: 'https://github.com/davidpedrero/Face-Recognition-Brain',
     id: 0,
   },
   {
@@ -13,8 +13,8 @@ export const projects = [
     description:"A React.js web application that allows you to search bwtween different API generated robots by name",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://davidpedrero.github.io/React-app/',
+    visit: 'https://github.com/davidpedrero/React-app',
     id: 1,
   // },
   // {
