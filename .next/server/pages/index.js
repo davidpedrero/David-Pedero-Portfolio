@@ -276,17 +276,6 @@ module.exports = require("react");;
 
 /***/ }),
 
-/***/ "react-is":
-/*!***************************!*\
-  !*** external "react-is" ***!
-  \***************************/
-/***/ (function(module) {
-
-"use strict";
-module.exports = require("react-is");;
-
-/***/ }),
-
 /***/ "react/jsx-dev-runtime":
 /*!****************************************!*\
   !*** external "react/jsx-dev-runtime" ***!
