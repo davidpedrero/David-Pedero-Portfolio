@@ -12,7 +12,7 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        My mission is to help aspiring and established developers take their development skills to the next level
+        My mission is to develop high quality web solutions that enable my clients to establish online presence, increase profitability and continually improve productivity.
       </SectionText>
       <Button onClick={() => window.location = 'https:google.com'}>Learn More</Button>
     </LeftSection>
