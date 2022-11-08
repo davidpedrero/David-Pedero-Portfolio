@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiJira } from 'react-icons/di';
+import { DiFirebase, DiReact, DiStackoverflow } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -14,7 +14,7 @@ const Technologies = () =>  (
     </SectionText>
     <List>
       <ListItem>
-        <DiReact size="3rem"/>
+        <DiReact size="5rem"/>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
@@ -24,22 +24,22 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiFirebase size="3rem"/>
+        <DiFirebase size="5rem"/>
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            Node.js and SQL
+            PostgreSQL and Node.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiJira size="3rem"/>
+        <DiStackoverflow size="5rem"/>
         <ListContainer>
-          <ListTitle>SQA</ListTitle>
+          <ListTitle>QA/QC</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            Jira and Cypress.io
+            Cypress.io and Jira
           </ListParagraph>
         </ListContainer>
       </ListItem>

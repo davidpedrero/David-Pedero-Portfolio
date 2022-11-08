@@ -3,7 +3,7 @@ export const projects = [
     title: 'Face Recognition Brain',
     description: "Face Recognition Brain is a web app that detects the human face present in the image whose URL you submitted",
       image: '/images/1.png',
-      tags: ['PostgresSQL', 'Express', 'React', 'Node.js'],
+      tags: ['PostgreSQL', 'Express', 'React', 'Node.js'],
     source: 'https://face-recognition-brain-2.herokuapp.com/',
     visit: 'https://github.com/davidpedrero/Face-Recognition-Brain',
     id: 0,

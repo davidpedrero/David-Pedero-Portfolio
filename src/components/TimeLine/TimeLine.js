@@ -44,9 +44,22 @@ const Timeline = () => {
 
   return (
     <Section id='about'>
-      <SectionTitle>About</SectionTitle>
+      <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        The purpose of Javascript mastery is to help aspiring developers take their development skills to the next level.
+        Greetings, my name is David Pedrero.
+        <br/><br/>
+        I am a completely self taught full stack web developer specializing in the MERN stack based in New York City.
+        <br/><br/>
+        I graduated from CUNY Hunter College with a Bacheors degree in Human Biology.
+        <br/><br/>
+        While working in the medical field during the pandemic, I began to build Javascript-based automation scripts and dashboards using Google Apps scripts.
+        I soon discovered that I was passionate about automation and decided to get serious about learning how to code.
+        <br/><br/>
+        One year later, I landed a full-time position as a QA Analyst at Lotto.com.
+        <br/><br/>
+        Six months later, I began doing contract work as a Mobile App Developer at Le Palle Shadow LLC. 
+        <br/><br/>
+        My interests lie in solving problems related to large scale distributed software systems.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
