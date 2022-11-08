@@ -55,9 +55,9 @@ const Timeline = () => {
         While working in the medical field during the pandemic, I began to build Javascript-based automation scripts and dashboards using Google Apps scripts.
         I soon discovered that I was passionate about automation and decided to get serious about learning how to code.
         <br/><br/>
-        One year later, I landed a full-time position as a QA Analyst at Lotto.com.
+        Six months later, I landed a full-time position as a QA Analyst at Lotto.com.
         <br/><br/>
-        Six months later, I began doing contract work as a Mobile App Developer at Le Palle Shadow LLC. 
+        Nine months later, I began doing contract work as a Mobile App Developer at Le Palle Shadow LLC. 
         <br/><br/>
         My interests lie in solving problems related to large scale distributed software systems.
       </SectionText>
