@@ -46,8 +46,8 @@ export const TimeLineData = [
 
 
 export const data = [
-  { number: 200, text: 'GitHub Commits', },
-  { number: 500, text: 'Authored Confluence Articles' },
+  { number: 250, text: 'GitHub Commits', },
+  { number: 100, text: 'Authored Confluence Articles' },
   { number: 10, text: 'Open Source Projects',},
   { number: 3, text: 'Years of Coding Experience' }
 ];
