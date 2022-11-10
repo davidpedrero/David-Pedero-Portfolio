@@ -13,8 +13,8 @@ export const projects = [
     description:"A React.js web application that allows you to search bwtween different API generated robots by name",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
-    source: 'https://davidpedrero.github.io/React-app/',
-    visit: 'https://github.com/davidpedrero/React-app',
+    source: 'https://davidpedrero.github.io/RoboFriends/',
+    visit: 'https://github.com/davidpedrero/RoboFriends',
     id: 1,
   // },
   // {
