@@ -63,7 +63,7 @@ const Timeline = () => {
         I have a diverse set of skills, ranging from software testing and project management, to front-end and back-end development.
         <br/><br/>
         My interests lie in innovation, automarion and solving problems related to large scale distributed software systems.
-        <br/>
+        <br/><br/>
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
