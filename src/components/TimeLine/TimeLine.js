@@ -48,18 +48,19 @@ const Timeline = () => {
       <SectionText>
         Greetings, my name is David Pedrero.
         <br/><br/>
-        I am a completely self taught full stack web developer specializing in the MERN stack based in New York City.
+        I am a completely self taught full stack web developer specializing in the MERN stack.
         <br/><br/>
         I graduated from CUNY Hunter College with a Bacheors degree in Human Biology.
         <br/><br/>
-        While working in the medical field during the pandemic, I began to build Javascript-based automation scripts and dashboards using Google Apps scripts.
-        I soon discovered that I was passionate about automation and decided to get serious about learning how to code.
+        While working in the medical field during the pandemic, I began to build Javascript-based automation scripts and dashboards using Google Apps scripts to optimize worklows.
+        I soon discovered that I was passionate about automation and I decided to get serious about learning to code.
         <br/><br/>
-        Six months later, I landed a full-time position as a QA Analyst at Lotto.com.
+        Nine months later, I landed a full-time position at a start-up tech company called Lotto.com.
         <br/><br/>
-        Nine months later, I began doing contract work as a Mobile App Developer at Le Palle Shadow LLC. 
+        Six months later, I landed a Mobile App Developer contracter role at Le Palle Shadow LLC.
         <br/><br/>
-        My interests lie in solving problems related to large scale distributed software systems.
+        I have a diverse set of skills, ranging from software testing and project management, to front-end and back-end development.
+        My interests lie in innovation, automarion and solving problems related to large scale distributed software systems. 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
