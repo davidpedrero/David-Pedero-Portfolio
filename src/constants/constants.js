@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   // },
   // {
-  //   title: 'WebRTC App',
-  //   description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-  //     image: '/images/3.jpg',
-  //     tags: ['React', 'WebRTC'],
-  //   source: 'https://google.com',
-  //   visit: 'https://google.com',
+  //   title: 'Next Site',
+  //   description: "This is a simple and responsive static website made wtih Html, CSS and Javascript",
+  //     image: '/images/3.png',
+  //     tags: ['HTML', 'Javascript', 'CSS'],
+  //   source: 'davidpedrero.github.io/Next-site/',
+  //   visit: 'https://github.com/davidpedrero/Next-site',
   //   id: 2,
   // },
   // {
