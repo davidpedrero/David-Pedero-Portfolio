@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id='about'>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Greetings fellow human, my name is David Pedrero.
+        Hello fellow nerds, my name is David Pedrero.
         <br/><br/>
         I am a completely self taught full stack web developer specializing in the MERN stack.
         <br/><br/>
