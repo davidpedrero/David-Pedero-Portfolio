@@ -28,7 +28,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            PostgreSQL and Node.js
+            PostgresSQL and Node.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
