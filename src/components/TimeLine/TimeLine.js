@@ -50,19 +50,19 @@ const Timeline = () => {
         <br/><br/>
         I am a completely self taught full stack web developer specializing in the MERN stack.
         <br/><br/>
-        I graduated from CUNY Hunter College with a Bacheors degree in Human Biology.
+        I graduated from CUNY Hunter College with a Bachelors degree in Human Biology.
         <br/><br/>
-        While working in the medical field during the pandemic, I began to build Javascript-based automation scripts and dashboards using Google Apps scripts to optimize worklows.
+        While working in the medical field during the pandemic, I began to build Javascript-based automation scripts and dashboards using Google Apps scripts to optimize workflows.
         <br/><br/>
         I soon discovered that I was passionate about automation and I decided to get serious about learning to code.
         <br/><br/>
         Nine months later, I landed a full-time position at a start-up tech company called Lotto.com.
         <br/><br/>
-        Six months after that, I landed a Mobile App Developer contracter role at Le Palle Shadow LLC.
+        Six months after that, I landed a Mobile App Developer contract role at Le Palle Shadow LLC.
         <br/><br/>
         I have a diverse set of skills, ranging from software testing and project management, to front-end and back-end development.
         <br/><br/>
-        My interests lie in innovation, automarion and solving problems related to large scale distributed software systems.
+        My interests lie in innovation, automation and solving problems related to large scale distributed software systems.
         <br/><br/>
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
