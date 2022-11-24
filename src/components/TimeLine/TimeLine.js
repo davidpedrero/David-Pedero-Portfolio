@@ -58,7 +58,7 @@ const Timeline = () => {
         <br/><br/>
         Nine months later, I landed a full-time position at a start-up tech company called Lotto.com.
         <br/><br/>
-        Six months after that, I landed a Mobile App Developer contract role at Le Palle Shadow LLC.
+        Six months after that, I landed a Front End Developer contract role at Le Palle Shadow LLC.
         <br/><br/>
         I have a diverse set of skills, ranging from software testing and project management, to front-end and back-end development.
         <br/><br/>
