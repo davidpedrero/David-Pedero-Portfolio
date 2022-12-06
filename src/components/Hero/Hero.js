@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         My mission is to develop high quality web solutions that enable my clients to establish online presence, increase profitability and continually improve productivity.
       </SectionText>
-      <Button onClick={() => window.open('https://drive.google.com/file/d/1bYyHMsuJp0AtkqhPjHXBS2wJxj92LCfY/view?usp=sharing', '_blank')}>View Resume</Button>
+      <Button onClick={() => window.open('https://drive.google.com/file/d/1GmyZBTwIknKT03ujhBgsfbrg027ZyLAS/view?usp=sharing', '_blank')}>View Resume</Button>
     </LeftSection>
   </Section>
 );
