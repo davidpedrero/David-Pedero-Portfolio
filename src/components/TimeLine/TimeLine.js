@@ -46,19 +46,17 @@ const Timeline = () => {
     <Section id='about'>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Hello fellow nerds, my name is David Pedrero.
+        Hello friends, my name is David Pedrero.
         <br/><br/>
         I am a completely self taught full stack web developer specializing in the MERN stack.
         <br/><br/>
         I graduated from CUNY Hunter College with a Bachelors degree in Human Biology.
         <br/><br/>
-        While working in the medical field during the pandemic, I began to build Javascript-based automation scripts and dashboards using Google Apps scripts to optimize workflows.
+        While working in the medical field during the pandemic, I began to learn Javascript in my free time. I soon discovered that I thoroughly enjoy building projects and solving problems. I also decided that I wanted to work in the tech filed as a web developer.
         <br/><br/>
-        I soon discovered that I was passionate about automation and I decided to get serious about learning to code.
+        To get my foot in the door, I began working as an operations associate at a start-up tech company called Lotto.com. While there, I built Javascript-based automation scripts and dashboards using Google Apps scripts that optimized workflows. After six months, I transitioned over to a full-time QA analyst role at the company.
         <br/><br/>
-        Nine months later, I landed a full-time position at a start-up tech company called Lotto.com.
-        <br/><br/>
-        Six months after that, I landed a Frontend Developer contract role at Le Palle Shadow LLC.
+        Later that June, I agreed to a six-month contract to work at Le Palle Shadow LLC as a frontend developer.
         <br/><br/>
         I have a diverse set of skills, ranging from software testing and project management, to front-end and back-end development.
         <br/><br/>
