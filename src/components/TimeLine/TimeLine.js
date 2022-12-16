@@ -67,7 +67,7 @@ const Timeline = () => {
         My interests lie in innovation, automation and solving problems related to large scale distributed software systems.
         <br/><br/>
       </SectionText>
-      <CarouselContainer id='accomplishments' ref={carouselRef} onScroll={handleScroll}>
+      <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
             <CarouselMobileScrollNode key={index} final={index === TOTAL_CAROUSEL_COUNT - 1}>
