@@ -31,6 +31,11 @@ const Header = () =>  (
           <NavLink>About</NavLink>
         </Link>
       </li>
+      <li>
+        <Link href="#accomplishments">
+          <NavLink>Accomplishments</NavLink>
+        </Link>
+      </li>
     </Div2>
     <Div3>
       <SocialIcons target="_blank" href='https://github.com/davidpedrero'>
