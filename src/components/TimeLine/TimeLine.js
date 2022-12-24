@@ -46,8 +46,6 @@ const Timeline = () => {
     <Section id='about'>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Hello friends, my name is David Pedrero.
-        <br/><br/>
         I am a completely self taught full stack web developer who specializes in the MERN stack.
         <br/><br/>
         I graduated from CUNY Hunter College with a Bachelors degree in Human Biology.

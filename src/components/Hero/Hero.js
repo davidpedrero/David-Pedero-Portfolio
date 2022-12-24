@@ -12,7 +12,7 @@ const Hero = (props) => (
         My Portfolio
       </SectionTitle>
       <SectionText>
-        My mission is to develop high quality web solutions that enable my clients to establish online presence, increase profitability and continually improve productivity.
+        Hi, my name is David Pedrero amd my mission is to develop high quality web solutions that enable my clients to establish online presence, increase profitability and continually improve productivity.
       </SectionText>
       <Button onClick={() => window.open('https://drive.google.com/file/d/10GhcYb00aFA9-gN5lapS2oFnaxztfbkq/view?usp=sharing', '_blank')}>View Resume</Button>
     </LeftSection>
