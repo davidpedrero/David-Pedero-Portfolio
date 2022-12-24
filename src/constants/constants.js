@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'RoboFriends',
-    description:"RoboFriends is a React web application that enables you to search between different API generated robots by name",
+    description:"RoboFriends is a React web application that enables you to search different API generated robots by name",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://davidpedrero.github.io/RoboFriends/',
