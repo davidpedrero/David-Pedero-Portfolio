@@ -46,23 +46,8 @@ const Timeline = () => {
     <Section id='about'>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am a completely self taught full stack web developer who specializes in the MERN stack.
-        <br/><br/>
-        I graduated from CUNY Hunter College with a Bachelors degree in Human Biology.
-        <br/><br/>
-        While working in the medical field during the pandemic, I began to learn programming in my free time. 
-        <br/><br/>
-        I soon discovered that I thoroughly enjoy building projects and solving problems. I also decided that I wanted to work in the tech filed as a web developer.
-        <br/><br/>
-        To get my foot in the door, I began working as an operations associate at a start-up tech company called Lotto.com. While there, I built Javascript-based automation scripts and dashboards using Google Apps scripts that optimized workflows. 
-        <br/><br/>
-        After six months, I transitioned over to a full-time QA analyst role at the company.
-        <br/><br/>
-        Later that June, I agreed to a six-month contract to work at Le Palle Shadow LLC as a frontend developer.
-        <br/><br/>
-        I have a diverse set of skills, ranging from software testing and project management, to front-end and back-end development.
-        <br/><br/>
-        My interests lie in innovation, automation and solving problems related to large scale distributed software systems.
+        I am a completely self taught full stack web developer who specializes in the MERN stack. I graduated from CUNY Hunter College with a Bachelors degree in Human Biology. While working in the medical field during the pandemic, I began to learn programming in my free time. I soon discovered that I thoroughly enjoy building projects and solving problems. I also decided that I wanted to work in the tech filed as a web developer.
+        To get my foot in the door, I began working as an operations associate at a start-up tech company called Lotto.com. While there, I built Javascript-based automation scripts and dashboards using Google Apps scripts that optimized workflows. After six months, I transitioned over to a full-time QA analyst role at the company. Later that June, I agreed to a six-month contract to work at Le Palle Shadow LLC as a frontend developer. I have a diverse set of skills, ranging from software testing and project management, to front-end and back-end development. My interests lie in innovation, automation and solving problems related to large scale distributed software systems.
         <br/><br/>
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
