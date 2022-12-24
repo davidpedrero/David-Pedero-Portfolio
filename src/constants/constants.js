@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Face Recognition Brain',
-    description: "Face Recognition Brain is a React web application that detects the human face in an image via API JSON response",
+    description: "Face Recognition Brain is a React application that detects human faces in images via API generated JSON response",
     image: '/images/1.png',
     tags: ['PostgreSQL', 'Express', 'React', 'Node.js'],
     source: 'https://face-recognition-brain.onrender.com/',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'RoboFriends',
-    description:"A React web application that allows you to search bwtween different API generated robots by name",
+    description:"RoboFriends is a React web application that enables you to search between different API generated robots by name",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://davidpedrero.github.io/RoboFriends/',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Next Site',
-    description: "A simple, beautiful and highly responsive static website made wtih HTML, CSS and Vanilla Javascript",
+    description: "Next Site is a simple, beautiful and highly responsive static website built with HTML, CSS and Vanilla Javascript",
     image: '/images/3.png',
     tags: ['HTML', 'Javascript', 'CSS'],
     source: 'https://davidpedrero.github.io/Next-site/',
