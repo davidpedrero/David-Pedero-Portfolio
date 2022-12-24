@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Face Recognition Brain',
-    description: "Face Recognition Brain is a web app that detects the human face present in the image whose URL you submitted",
-      image: '/images/1.png',
-      tags: ['PostgreSQL', 'Express', 'React', 'Node.js'],
-    source: 'https://face-recognition-brain.onrender.com/',
-    visit: 'https://github.com/davidpedrero/Face-Recognition-Brain',
+    title: 'InteliTech',
+    description: "This is a full-stack, fully functional demo e-commerce application built on the MERN stack",
+    image: '/images/4.jpg',
+    tags: ['React', 'Express.js', 'Node.js', 'MongDB'],
+    source: 'https://intelitech.onrender.com/',
+    visit: 'https://github.com/davidpedrero/E-commerce-site',
     id: 0,
   },
   {
@@ -16,24 +16,24 @@ export const projects = [
     source: 'https://davidpedrero.github.io/RoboFriends/',
     visit: 'https://github.com/davidpedrero/RoboFriends',
     id: 1,
-  // },
-  // {
-  //   title: 'Next Site',
-  //   description: "This is a simple and responsive static website made wtih Html, CSS and Javascript",
-  //     image: '/images/3.png',
-  //     tags: ['HTML', 'Javascript', 'CSS'],
-  //   source: 'davidpedrero.github.io/Next-site/',
-  //   visit: 'https://github.com/davidpedrero/Next-site',
-  //   id: 2,
-  // },
-  // {
-  //   title: 'Unichat',
-  //   description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-  //   image: '/images/4.jpg',
-  //   tags: ['React', 'ChatEngine', 'Firebase'],
-  //   source: 'https://google.com',
-  //   visit: 'https://google.com',
-  //   id: 3,
+  },
+  {
+    title: 'Next Site',
+    description: "This is a simple and responsive static website made wtih Html, CSS and Javascript",
+    image: '/images/3.png',
+    tags: ['HTML', 'Javascript', 'CSS'],
+    source: 'davidpedrero.github.io/Next-site/',
+    visit: 'https://github.com/davidpedrero/Next-site',
+    id: 2,
+  },
+  {
+    title: 'Face Recognition Brain',
+    description: "Face Recognition Brain is a web app that detects the human face present in the image whose URL you submitted",
+    image: '/images/1.png',
+    tags: ['PostgreSQL', 'Express', 'React', 'Node.js'],
+    source: 'https://face-recognition-brain.onrender.com/',
+    visit: 'https://github.com/davidpedrero/Face-Recognition-Brain',
+    id: 3,
   }
 ];
 
