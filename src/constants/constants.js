@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Face Recognition Brain',
-    description: "Face Recognition Brain is a React application that detects human faces in images via API generated JSON response",
+    description: "Face Recognition Brain is a React application that detects human faces in images via JSON response from Clarifai API",
     image: '/images/1.png',
     tags: ['PostgreSQL', 'Express', 'React', 'Node.js'],
     source: 'https://face-recognition-brain.onrender.com/',
