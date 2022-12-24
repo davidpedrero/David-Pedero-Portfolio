@@ -9,13 +9,22 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Face Recognition Brain',
+    description: "Face Recognition Brain is a web app that detects the human face present in the image whose URL you submitted",
+    image: '/images/1.png',
+    tags: ['PostgreSQL', 'Express', 'React', 'Node.js'],
+    source: 'https://face-recognition-brain.onrender.com/',
+    visit: 'https://github.com/davidpedrero/Face-Recognition-Brain',
+    id: 1,
+  },
+  {
     title: 'RoboFriends',
     description:"A React.js web application that allows you to search bwtween different API generated robots by name",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://davidpedrero.github.io/RoboFriends/',
     visit: 'https://github.com/davidpedrero/RoboFriends',
-    id: 1,
+    id: 2,
   },
   {
     title: 'Next Site',
@@ -24,15 +33,6 @@ export const projects = [
     tags: ['HTML', 'Javascript', 'CSS'],
     source: 'davidpedrero.github.io/Next-site/',
     visit: 'https://github.com/davidpedrero/Next-site',
-    id: 2,
-  },
-  {
-    title: 'Face Recognition Brain',
-    description: "Face Recognition Brain is a web app that detects the human face present in the image whose URL you submitted",
-    image: '/images/1.png',
-    tags: ['PostgreSQL', 'Express', 'React', 'Node.js'],
-    source: 'https://face-recognition-brain.onrender.com/',
-    visit: 'https://github.com/davidpedrero/Face-Recognition-Brain',
     id: 3,
   }
 ];
