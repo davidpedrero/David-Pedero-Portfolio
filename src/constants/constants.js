@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'InteliTech',
-    description: "InteliTech is a full-stack, fully responsive demo e-commerce web application built with the MERN stack",
+    description: "InteliTech is a full-stack, fully responsive e-commerce web application built on the MERN stack that sells the latest tech",
     image: '/images/4.png',
     tags: ['React', 'Express.js', 'Node.js', 'MongDB'],
     source: 'https://intelitech.onrender.com/',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Face Recognition Brain',
-    description: "Face Recognition Brain is a React application that detects human faces in images via JSON response from Clarifai API",
+    description: "Face Recognition Brain is a React application that can detect human faces in an image using JSON responses from Clarifai API",
     image: '/images/1.png',
     tags: ['PostgreSQL', 'Express', 'React', 'Node.js'],
     source: 'https://face-recognition-brain.onrender.com/',
