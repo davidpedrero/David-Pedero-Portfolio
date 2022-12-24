@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Next Site',
-    description: "Next Site is a simple, beautiful and highly responsive static website built with HTML, CSS and Vanilla Javascript",
+    description: "Next Site is a simple, beautiful and highly responsive static website built with HTML, CSS and Vanilla JS",
     image: '/images/3.png',
     tags: ['HTML', 'Javascript', 'CSS'],
     source: 'https://davidpedrero.github.io/Next-site/',
