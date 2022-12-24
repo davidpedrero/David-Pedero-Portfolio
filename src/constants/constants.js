@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'InteliTech',
-    description: "This is a full-stack, fully functional demo e-commerce application built on the MERN stack",
+    description: "InteliTech is a full-stack, fully responsive demo e-commerce web application built with the MERN stack",
     image: '/images/4.png',
     tags: ['React', 'Express.js', 'Node.js', 'MongDB'],
     source: 'https://intelitech.onrender.com/',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Face Recognition Brain',
-    description: "Face Recognition Brain is a web app that detects the human face present in the image whose URL you submitted",
+    description: "Face Recognition Brain is a React web app that detects the human face present in the image whose URL you submitted",
     image: '/images/1.png',
     tags: ['PostgreSQL', 'Express', 'React', 'Node.js'],
     source: 'https://face-recognition-brain.onrender.com/',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'RoboFriends',
-    description:"A React.js web application that allows you to search bwtween different API generated robots by name",
+    description:"A React web application that allows you to search bwtween different API generated robots by name",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://davidpedrero.github.io/RoboFriends/',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Next Site',
-    description: "This is a simple and responsive static website made wtih Html, CSS and Javascript",
+    description: "A simple and responsive static website made wtih Html, CSS and vanilla Javascript",
     image: '/images/3.png',
     tags: ['HTML', 'Javascript', 'CSS'],
     source: 'davidpedrero.github.io/Next-site/',
