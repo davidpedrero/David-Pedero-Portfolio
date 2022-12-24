@@ -31,7 +31,7 @@ export const projects = [
     description: "A simple and responsive static website made wtih Html, CSS and vanilla Javascript",
     image: '/images/3.png',
     tags: ['HTML', 'Javascript', 'CSS'],
-    source: 'davidpedrero.github.io/Next-site/',
+    source: 'https://davidpedrero.github.io/Next-site/',
     visit: 'https://github.com/davidpedrero/Next-site',
     id: 3,
   }
