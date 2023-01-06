@@ -3,7 +3,7 @@ export const projects = [
     title: 'InteliTech',
     description: "InteliTech is a full-stack, fully responsive e-commerce web application built on the MERN stack that sells the latest tech",
     image: '/images/4.png',
-    tags: ['React', 'Express.js', 'Node.js', 'MongDB'],
+    tags: ['React', 'Express.js', 'Node.js', 'MongoDB'],
     source: 'https://intelitech.onrender.com/',
     visit: 'https://github.com/davidpedrero/E-commerce-site',
     id: 0,
