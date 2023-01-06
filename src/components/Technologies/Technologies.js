@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiStackoverflow, DiPhotoshop } from 'react-icons/di';
+import { FaFigma, FaReact, FaDatabase, FaServer} from 'react-icons/fa';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -13,7 +13,8 @@ const Technologies = () =>  (
     </SectionText>
     <List>
       <ListItem>
-        <DiReact size="5rem"/>
+        <FaReact size="6rem"/>
+        <br></br>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
@@ -23,7 +24,8 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiFirebase size="5rem"/>
+        <FaServer size="6rem"/>
+        <br></br>
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
@@ -33,12 +35,13 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiPhotoshop size="5rem"/>
+        <FaFigma size="6rem"/>
+        <br></br>
         <ListContainer>
           <ListTitle>UX Design</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            Photoshop, Jira and Figma
+            AdobeXD and Figma
           </ListParagraph>
         </ListContainer>
       </ListItem>
