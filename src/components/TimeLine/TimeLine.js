@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id='about'>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am a completely self taught full stack web developer who specializes in the MERN stack. I graduated from CUNY Hunter College with a Bachelors degree in Human Biology. 
+        I am a completely self-taught full-stack web developer specializing in the MERN stack. I graduated from CUNY Hunter College with a Bachelors degree in Human Biology. 
         <br/><br/>
         While working in the medical field during the pandemic, I started teaching myself how to code in my spare time. I soon discovered that I had a passion for building projects and solving problems. 
         <br/><br/>
