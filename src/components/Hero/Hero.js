@@ -15,7 +15,7 @@ const Hero = (props) => (
       <SectionText>
         Hi, my name is David Pedrero.
         <br/><br/>
-        My mission is to develop high quality web solutions that enable my clients to establish online presence, increase profitability and continually improve productivity.
+        My mission is to develop high quality web solutions that enable my clients to establish online presence, increase profitability and continually improve productivity!
       </SectionText>
       <Button onClick={() => window.open('https://drive.google.com/file/d/1iPm0BfibV6_Cjo6H6Pq_hkY0QA47lQVp/view?usp=sharing', '_blank')}>View Resume</Button>
     </LeftSection>
