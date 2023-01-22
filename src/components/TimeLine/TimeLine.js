@@ -54,7 +54,7 @@ const Timeline = () => {
         <br/><br/>
         While working as an operations associate at a start-up tech company called Lotto.com, I built Javascript-based automation scripts and dashboards using Google Apps scripts that optimized workflows. 
         <br/><br/>
-        Later that June, I agreed to a six-month contract for a frontend developer role at Le Palle Shadow LLC. 
+        Later that June, I agreed to a six-month contract for a frontend developer role at Le Pale Shadow LLC. 
         <br/><br/>
         I have a diverse set of skills, ranging from QA testing and UX design, to front-end and back-end development. My interests lie in innovation, automation and solving problems related to large scale distributed software systems.
       </SectionText>
