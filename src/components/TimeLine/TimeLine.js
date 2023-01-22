@@ -58,7 +58,11 @@ const Timeline = () => {
         <br/><br/>
         I have a diverse set of skills, ranging from QA testing and UX design, to front-end and back-end development. My interests lie in innovation, automation and solving problems related to large scale distributed software systems.
       </SectionText>
+        <br/><br/>
+        <SectionDivider />
         <br/>
+        <SectionTitle>Timeline</SectionTitle>
+        <br/><br/>
         <Row>
           <Column>
             <Img src='/images/me-at-work.png'/>
