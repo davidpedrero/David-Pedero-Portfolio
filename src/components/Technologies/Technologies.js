@@ -46,6 +46,7 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
     </List>
+    <br/>
   </Section>
 );
 

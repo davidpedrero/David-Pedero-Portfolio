@@ -1,6 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-
-import { CarouselButton, CarouselButtonDot, CarouselButtons, CarouselContainer, CarouselItem, CarouselItemImg, CarouselItemText, CarouselItemTitle, CarouselMobileScrollNode } from './TimeLineStyles';
+import { CarouselButton, CarouselButtonDot, CarouselButtons, CarouselContainer, CarouselItem, CarouselItemImg, CarouselItemText, CarouselItemTitle, CarouselMobileScrollNode, Img, Column, Row } from './TimeLineStyles';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { TimeLineData } from '../../constants/constants';
 
@@ -44,7 +43,10 @@ const Timeline = () => {
 
   return (
     <Section id='about'>
+      <SectionDivider />
+      <br/>
       <SectionTitle>About Me</SectionTitle>
+      <br/>
       <SectionText>
         I am a completely self-taught full-stack web developer specializing in the MERN stack. I graduated from CUNY Hunter College with a Bachelors degree in Human Biology. 
         <br/><br/>
@@ -55,8 +57,21 @@ const Timeline = () => {
         Later that June, I agreed to a six-month contract for a frontend developer role at Le Palle Shadow LLC. 
         <br/><br/>
         I have a diverse set of skills, ranging from QA testing and UX design, to front-end and back-end development. My interests lie in innovation, automation and solving problems related to large scale distributed software systems.
-        <br/><br/>
       </SectionText>
+        <br/>
+        <Row>
+          <Column>
+            <Img src='/images/me-at-work.png'/>
+          </Column>
+          <Column>
+            <Img src='/images/me.png'/>
+          </Column>
+          <Column>
+            <Img src='/images/me-at-hike.png'/>
+          </Column>
+        </Row>
+        <br/><br/>
+        <br/><br/>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (

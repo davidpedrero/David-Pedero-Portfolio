@@ -19,9 +19,9 @@ export const CarouselContainer = styled.ul`
 
   //remove scrollbar
   scrollbar-width: none;  
-   &::-webkit-scrollbar {
-     display: none;
-   }
+  &::-webkit-scrollbar {
+    display: none;
+  }
 
   @media ${props => props.theme.breakpoints.sm} {
     overflow-x: scroll;
@@ -151,4 +151,24 @@ export const CarouselButtonDot = styled.div`
   margin: auto;
   width: 3px;
   height: 3px;
+`
+export const Img = styled.img`
+  width: 70%;
+  height: 70%;
+  object-fit: cover;
+  overflow: hidden;
+  border-radius: 50%;
+  align-self: center;
+  filter: drop-shadow(0px 0px 5px);
+`
+
+export const Row = styled.div`
+  display: flex;
+`
+
+export const Column = styled.div`
+  float: left;
+  width: 33.33%;
+  height: 33.33%;
+  padding: 5px;
 `
