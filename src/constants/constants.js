@@ -26,13 +26,22 @@ export const projects = [
     visit: 'https://github.com/davidpedrero/RoboFriends',
     id: 2,
   },
+  // {
+  //   title: 'Next Site',
+  //   description: "Next Site is a simple, beautiful and highly responsive static website built with HTML, CSS and Vanilla JS",
+  //   image: '/images/3.png',
+  //   tags: ['Javascript', 'HTML', 'CSS'],
+  //   source: 'https://davidpedrero.github.io/Next-site/',
+  //   visit: 'https://github.com/davidpedrero/Next-site',
+  //   id: 3,
+  // },
   {
-    title: 'Next Site',
-    description: "Next Site is a simple, beautiful and highly responsive static website built with HTML, CSS and Vanilla JS",
+    title: 'Fetch Finder',
+    description: "Fetch Finder is a web application that allows users to search for information about dogs via the Dog API.",
     image: '/images/3.png',
     tags: ['Javascript', 'HTML', 'CSS'],
-    source: 'https://davidpedrero.github.io/Next-site/',
-    visit: 'https://github.com/davidpedrero/Next-site',
+    source: 'https://fetch-finder-api.netlify.app/',
+    visit: 'https://github.com/davidpedrero/Dog-Search-API',
     id: 3,
   }
 ];
