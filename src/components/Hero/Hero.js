@@ -13,7 +13,7 @@ const Hero = (props) => (
         My Portfolio
       </SectionTitle>
       <SectionText>
-        Hi, my name is David Pedrero.
+        Hi, my name is David Pedrero and I am a completely self-taught web developer.
         <br/><br/>
         My mission is to develop high quality web solutions that enable my clients to establish online presence, increase profitability and continually improve productivity.
       </SectionText>
