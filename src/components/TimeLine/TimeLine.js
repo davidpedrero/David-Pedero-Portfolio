@@ -48,15 +48,14 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <br/>
       <SectionText>
-        I am a completely self-taught full-stack web developer specializing in the MERN stack. I graduated from CUNY Hunter College with a Bachelors degree in Human Biology. 
+        I am a completely self-taught full-stack web developer specializing in the MERN stack. I graduated from CUNY Hunter College with a Bachelors degree in Human Biology. While working in the medical field during the pandemic, I started teaching myself how to code in my spare time. I soon discovered that I had a passion for building software projects and solving problems. 
         <br/><br/>
-        While working in the medical field during the pandemic, I started teaching myself how to code in my spare time. I soon discovered that I had a passion for building projects and solving problems. 
+        I decided I wanted to make a career shift into web development. In order to break into the field, I landed a role as an operations associate at a start-up tech company called Lotto.com. I continued to improve my coding skills daily and in six months I was promoted to Product Analyst. While still working full-time, I agreed to provide contracted front end development services to Le Pale Shadow LLC for a period of six months.
         <br/><br/>
-        While working as an operations associate at a start-up tech company called Lotto.com, I built Javascript-based automation scripts and dashboards using Google Apps scripts that optimized workflows. 
+        As my coding skills improved, I began programming Javascript-based automations, scripts and dashboards that optimized workflows and increased productivity. Later that year, I finally ahieved my dream (of becoming a developer) and was promoted to Internal Tools Developer at Lotto.com.
         <br/><br/>
-        I also agreed to provide contracted front end development services to Le Pale Shadow LLC for a period of six months while still working my full-time job.
-        <br/><br/>
-        I have a diverse set of skills, ranging from QA testing and UX design, to front-end and back-end development. My interests lie in innovation, automation and solving problems related to large scale distributed software systems.
+        Nowadays, I continue to use my diverse set of skills, ranging from to front-end and back-end development, professionally to develop high quality software solutions that automate workflows, increase productivity and solve business problems Outside of work, I continue to work on software passion projects to innovate, improve my programming skills and to just build cool stuff.
+
       </SectionText>
         <br/><br/>
         <SectionDivider />

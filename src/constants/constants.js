@@ -41,8 +41,8 @@ export const TimeLineData = [
   { year: 2019, text: 'Started my coding journey', },
   { year: 2020, text: 'Developed my first web app called Robofriends', },
   { year: 2021, text: 'Landed full time role at Lotto.com', text2: 'Developed InteliTech & Face Recognition Brain'},
-  { year: 2022, text: 'Promoted to Internal Tools Developer at Lotto.com', text2: 'Provided FE developer services to Le Pale Shadow', },
-  { year: 2023, text: 'Developed Fetch Finder web application', }
+  { year: 2022, text2: 'Promoted to Product Analyst at Lotto.com', text: 'Provided Frontend Developer services at Le Pale Shadow', },
+  { year: 2023, text2: 'Developed Fetch Finder web application', text: 'Promoted to Internal Tools Developer at Lotto.com' }
 ];
 
 
@@ -50,5 +50,5 @@ export const data = [
   { number: 250, text: 'GitHub Commits', },
   { number: 100, text: 'Authored Confluence Articles' },
   { number: 14, text: 'Open Source Projects',},
-  { number: 3, text: 'Years of Coding Experience' }
+  { number: 4, text: 'Years of Coding Experience' }
 ];
