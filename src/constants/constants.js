@@ -41,7 +41,7 @@ export const TimeLineData = [
   { year: 2019, text: 'Started my coding journey', },
   { year: 2020, text: 'Developed my first web app called Robofriends', },
   { year: 2021, text: 'Landed full time role at Lotto.com', text2: 'Developed InteliTech & Face Recognition Brain'},
-  { year: 2022, text2: 'Promoted to Product Analyst at Lotto.com', text: 'Provided Frontend Developer services at Le Pale Shadow', },
+  { year: 2022, text: 'Provided Frontend Developer services at Le Pale Shadow', text2: 'Promoted to Product Analyst at Lotto.com',},
   { year: 2023,  text: 'Promoted to Internal Tools Developer at Lotto.com', text2: 'Developed Fetch Finder web app',}
 ];
 
