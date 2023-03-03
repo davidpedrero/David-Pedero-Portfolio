@@ -10,7 +10,7 @@ const Hero = (props) => (
       <SectionTitle main centerssss>
         Welcome to
         <br/>
-        My Portfolio
+        my Portfolio
       </SectionTitle>
       <SectionText>
         Hi, my name is David Pedrero and I am a completely self-taught web developer.
