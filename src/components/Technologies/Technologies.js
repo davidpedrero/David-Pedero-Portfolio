@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaFigma, FaReact, FaDatabase, FaServer} from 'react-icons/fa';
+import { FaReact, FaDatabase, FaServer } from 'react-icons/fa';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -30,18 +30,18 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            MongoDB, PostgeSQL and Node.js
+            Node.js, Express.js, and REST APIs
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <FaFigma size="6rem"/>
+        <FaDatabase size="6rem"/>
         <br></br>
         <ListContainer>
-          <ListTitle>UX Design</ListTitle>
+          <ListTitle>Databases</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            AdobeXD and Figma
+            PostgreSQL, MongoDB, and MySQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
