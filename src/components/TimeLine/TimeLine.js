@@ -48,13 +48,11 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <br/>
       <SectionText>
-        I am born and raised in Brooklyn, New York. I graduated from CUNY Hunter College with a Bachelors degree in Human Biology. While working in the medical field during the pandemic, I started teaching myself how to code in my spare time. I soon discovered that I had a passion for building software projects and solving problems.
+        I was born and raised in Brooklyn, New York. I graduated from CUNY Hunter College with a Bachelors degree in Human Biology. While working in the medical field during the pandemic, I started teaching myself how to code in my spare time. I soon discovered that I had a passion for building software projects and solving problems.
         <br/><br/>
-        I decided I wanted to make a career shift into web development. In order to break into the field, I landed a role as an operations associate at a start-up tech company called Lotto.com. While still working full-time, I continued to tirelessly improve my coding skills daily. As my coding skills improved, I began programming Javascript-based automations, scripts and dashboards that optimized workflows and increased productivity. Six months later, I achieved my goal and was promoted to Internal Tools Developer at Lotto.com!
+        I decided I wanted a career in web development. I landed a Product Analyst at a start-up called Lotto.com to get my foot in the proverbial door. I worked tirelessly to improve my programming skills while working full-time. As my skillset grew, I started applying my knowledge at work and made scripts and dashboards to optimize workflows and increase productivity. Pretty soon, my boss took notice and within a few months I was promoted to the role of Internal Tools Developer!
         <br/><br/>
-        While working full-time, I agreed to provide contracted front end development services to Le Pale Shadow LLC for a period of six months. While there, I developed and maintained user-friendly and responsive web applications, supported the internal team on client projects updating UI components, and collaborated with back-end developers, designers, and stakeholders to continuously integrate new features. Overall, I was able to grow as a developer and improve my soft and technical skills even further.
-        <br/><br/>
-        Today, I am a completely self-taught full-stack web developer specializing in the MERN stack. I continue to use my diverse set of skills, ranging from to front-end and back-end development, professionally to develop high quality software solutions that automate workflows, increase productivity and solve business problems. Outside of work, I continue to work on passion projects to improve my programming skills and build cool stuff.
+        Today, I use my diverse set of skills, ranging from to front-end and back-end development, to develop high quality software solutions that solve business problems. Outside of work, I continue to work on passion projects to improve my programming skills and build cool stuff.
 
       </SectionText>
         <br/><br/>
